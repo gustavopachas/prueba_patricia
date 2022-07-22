@@ -6,7 +6,7 @@ import net.thucydides.core.pages.PageObject;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-@DefaultUrl("http://s503va11/wdc/index.aspx")  //  http://S503VD09/wdc/index.aspx   //http://s503va11/wdc/index.aspx   -->oficial
+@DefaultUrl("https://www.bbva.pe/")  //  http://S503VD09/wdc/index.aspx   //http://s503va11/wdc/index.aspx   -->oficial
 public class WioPage extends PageObject {
 
     @FindBy(id = "txtUsuario")
